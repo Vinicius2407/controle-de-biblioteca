@@ -1,0 +1,5 @@
+- **Instruções**:
+  - Necessário instalar <a href="https://nodejs.org/en/">Node.js</a>
+  - Após instalação, rodar o comando "npm install" (terminal) dentro das pastas _backend_ e _frontend_, para instalar as dependências necessárias
+  - Após finalizado instalação das dependências em **ambas** as pastas, rodar o comando "npm run start" (terminal) na pasta raíz _library-app_ para iniciar o servidor (backend) e rodar o app na Web (frontend) ao mesmo tempo (aguardar alguns segundos para iniciar)
+  - **Qualquer dúvida manda aquele zap maroto**
